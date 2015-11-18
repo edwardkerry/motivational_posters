@@ -64,7 +64,7 @@ input {
   margin: 0;
 }
 
-#caption-controls {
+#caption-control {
   padding: 10px;
   font-size: 14px;
 }
@@ -79,6 +79,11 @@ footer {
   text-align: left;
   font-size: 12px;
   box-shadow: -1px 0 5px rgba(0,0,0, 0.3);
+}
+
+#footer{
+  margin: 0 auto;
+  width: 800px;
 }
 
 footer img {
